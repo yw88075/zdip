@@ -43,7 +43,7 @@ proxyip.aliyun.fxxk.dedyn.io
 fbi.gov
 ip.sb
 japan.com
-russia.com
+vivo.com.br
 skk.moe
 malaysia.com
 www.visa.com.tw
@@ -56,7 +56,7 @@ www.visa.co.jp
 www.visakorea.com
 www.gco.gov.qa
 www.gov.se
-www.csgo.com
+alura.com.br
 www.whoer.net
 www.whatismyip.com
 www.hugedomains.com
@@ -81,9 +81,9 @@ www.ipchicken.com
 try.tp-link.com
 www.iplocation.net
 iplocation.io
-www.d-555.com
+indeed.com
 www.sean-now.com
-www.gov.ua
+sciencedirect.com
 email.lg.com
 acquisition.genesis.com
 vivo.com.br
