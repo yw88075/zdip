@@ -10,7 +10,7 @@
 104.17.96.193:443
 104.19.151.236:443
 104.18.45.247:443
-104.16.245.27:443
+199.60.103.30:443
 104.17.104.105:443
 104.17.166.186:443
 104.19.153.16:443
@@ -54,14 +54,14 @@ www.visa.com
 www.visa.com.hk
 www.visa.co.jp
 www.visakorea.com
-www.gco.gov.qa
+bootcamp.latam.express.dhl.com
 www.gov.se
 alura.com.br
 www.whoer.net
 www.whatismyip.com
 www.hugedomains.com
 www.udacity.com
-www.4chan.org
+bootcamp.latam.express.dhl.com
 www.okcupid.com
 www.glassdoor.com
 www.udemy.com
