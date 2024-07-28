@@ -24,6 +24,10 @@
 104.21.48.87:443
 104.23.140.126:443
 104.16.0.205:443
+162.159.140.128:443
+23.227.38.65:443
+104.17.143.252:443
+104.17.29.170:443
 proxyip.aliyun.fxxk.dedyn.io
 fbi.gov
 ip.sb
@@ -70,3 +74,5 @@ iplocation.io
 www.d-555.com
 www.sean-now.com
 www.gov.ua
+email.lg.com
+acquisition.genesis.com
