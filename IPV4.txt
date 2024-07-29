@@ -40,6 +40,9 @@
 104.18.40.96:443#Germany
 104.20.248.29:443#Kingdom
 162.159.130.67:443#indeed
+199.60.103.29:443#India
+162.159.130.11:443#Australia
+104.21.55.178:443#Hong Kong
 proxyip.aliyun.fxxk.dedyn.io
 fbi.gov
 ip.sb
@@ -69,7 +72,6 @@ www.udemy.com
 www.baipiao.eu.org
 xn--b6gac.eu.org
 log.bpminecraft.com
-www.boba88slot.com
 gur.gov.ua
 www.zsu.gov.ua
 www.iakeys.com
