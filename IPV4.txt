@@ -68,7 +68,7 @@ www.udacity.com
 www.okcupid.com
 www.glassdoor.com
 www.udemy.com
-www.baipiao.eu.org
+yw.freemyip.com
 xn--b6gac.eu.org
 log.bpminecraft.com
 gur.gov.ua
@@ -98,3 +98,4 @@ braze.com
 victoriassecret.com
 canva.com
 america1.store.uefa.com
+http://www.baipiao.eu.org/
