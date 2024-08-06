@@ -46,7 +46,7 @@ yw5.duckdns.org
 199.60.103.29:443#India
 162.159.130.11:443#Australia
 104.21.55.178:443#Hong Kong
-104.19.35.107.yw.zzux.com
+ip.yw.zzux.com
 fbi.gov
 ip.sb
 japan.com
