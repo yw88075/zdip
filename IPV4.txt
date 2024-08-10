@@ -4,6 +4,7 @@ yw2.duckdns.org
 yw3.duckdns.org
 yw4.duckdns.org
 yw5.duckdns.org
+104.18.185.132:443
 104.18.123.134:443
 104.18.123.108:443
 104.18.123.144:443
