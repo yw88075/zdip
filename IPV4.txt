@@ -5,7 +5,7 @@ yw3.duckdns.org
 yw4.duckdns.org
 yw5.duckdns.org
 104.18.185.132:443
-104.18.123.134:443
+104.18.148.8:443
 104.18.123.108:443
 104.18.13.57:443
 104.18.13.85:443
@@ -36,13 +36,13 @@ yw5.duckdns.org
 162.159.130.67:443#indeed
 141.101.114.103:443
 162.159.130.11:443#Australia
-104.21.55.178:443#Hong Kong
+104.18.148.8:443#Hong Kong
 ip.yw.zzux.com
 fbi.gov
 ip.sb
 japan.com
 vivo.com.br
-skk.moe
+172.67.2.238:443#skk.moe
 malaysia.com
 www.visa.com.tw
 www.visa.com.sg
