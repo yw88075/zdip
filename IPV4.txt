@@ -36,7 +36,6 @@ yw5.duckdns.org
 162.159.130.67:443#indeed
 141.101.114.103:443
 162.159.130.11:443#Australia
-104.18.148.8:443#Hong Kong
 ip.yw.zzux.com
 fbi.gov
 ip.sb
