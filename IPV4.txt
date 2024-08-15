@@ -47,13 +47,11 @@ vivo.com.br
 malaysia.com
 www.visa.com.tw
 www.visa.com.sg
-www.shopify.com
 www.digitalocean.com
 www.visa.com
 www.visa.com.hk
 www.visa.co.jp
 www.visakorea.com
-bootcamp.latam.express.dhl.com
 www.gov.se
 alura.com.br
 www.whoer.net
@@ -87,8 +85,7 @@ mobilidade.cloud.caixa.gov.br
 pixabay.com
 bitdefender.com
 nairaland.com
-polarion.plm.automation.siemens.com
-docs.dialogi.elisa.fi
+sciencedirect.com
 braze.com
 victoriassecret.com
 canva.com
