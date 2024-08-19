@@ -4,7 +4,8 @@ yw2.duckdns.org
 yw3.duckdns.org
 yw4.duckdns.org
 yw5.duckdns.org
-104.18.185.132:443
+104.19.152.19:443#United Kingdom
+104.18.40.157:443
 104.18.148.8:443
 104.18.123.108:443
 104.18.13.57:443
@@ -34,7 +35,7 @@ yw5.duckdns.org
 162.159.133.62:443#Brazil
 172.64.147.160:443#Germany
 104.18.40.96:443#Germany
-104.20.248.29:443#Kingdom
+xhamster.desi
 162.159.130.67:443#indeed
 141.101.114.103:443
 162.159.130.11:443#Australia
@@ -52,7 +53,7 @@ www.visa.com
 www.visa.com.hk
 www.visa.co.jp
 www.visakorea.com
-www.gov.se
+skokka.com
 alura.com.br
 www.whoer.net
 www.whatismyip.com
@@ -72,7 +73,7 @@ edtunnel-dgp.pages.dev
 download.yunzhongzhuan.com
 www.ipaddress.my
 www.wto.org
-www.who.int
+account.thesun.co.uk
 www.ipchicken.com
 try.tp-link.com
 www.iplocation.net
@@ -91,3 +92,5 @@ victoriassecret.com
 canva.com
 america1.store.uefa.com
 www.baipiao.eu.org
+investors.atlassian.com#Australia
+marketplace.telstra.com#Australia
