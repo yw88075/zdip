@@ -59,7 +59,6 @@ www.whoer.net
 www.whatismyip.com
 www.hugedomains.com
 www.udacity.com
-yw1.ydns.eu
 www.glassdoor.com
 www.udemy.com
 yw.freemyip.com
@@ -86,7 +85,6 @@ mobilidade.cloud.caixa.gov.br
 pixabay.com
 bitdefender.com
 nairaland.com
-sciencedirect.com
 braze.com
 victoriassecret.com
 canva.com
@@ -94,3 +92,6 @@ america1.store.uefa.com
 www.baipiao.eu.org
 investors.atlassian.com#Australia
 marketplace.telstra.com#Australia
+yw1.ydns.eu
+yw2.ydns.eu
+yw3.ydns.eu
