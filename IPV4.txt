@@ -56,7 +56,6 @@ www.visakorea.com
 skokka.com
 alura.com.br
 www.whoer.net
-www.whatismyip.com
 www.hugedomains.com
 www.udacity.com
 www.glassdoor.com
@@ -69,7 +68,6 @@ gur.gov.ua
 www.zsu.gov.ua
 www.iakeys.com
 edtunnel-dgp.pages.dev
-download.yunzhongzhuan.com
 www.ipaddress.my
 www.wto.org
 account.thesun.co.uk
@@ -95,3 +93,4 @@ marketplace.telstra.com#Australia
 yw1.ydns.eu
 yw2.ydns.eu
 yw3.ydns.eu
+yw4.ydns.eu
