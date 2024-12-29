@@ -1,9 +1,15 @@
-172.64.154.72:443
+yw1.ydns.eu
+yw2.ydns.eu
+yw3.ydns.eu
+yw4.ydns.eu
+yw5.ydns.eu
 yw1.duckdns.org
 yw2.duckdns.org
 yw3.duckdns.org
 yw4.duckdns.org
 yw5.duckdns.org
+yw.freemyip.com
+yw88075.ydns.eu
 104.19.152.19:443#United Kingdom
 104.18.40.157:443
 104.18.148.8:443
@@ -56,8 +62,6 @@ www.hugedomains.com
 www.udacity.com
 www.glassdoor.com
 www.udemy.com
-yw.freemyip.com
-yw88075.ydns.eu
 xn--b6gac.eu.org
 log.bpminecraft.com
 gur.gov.ua
@@ -86,11 +90,6 @@ america1.store.uefa.com
 www.baipiao.eu.org
 investors.atlassian.com#Australia
 marketplace.telstra.com#Australia
-yw1.ydns.eu
-yw2.ydns.eu
-yw3.ydns.eu
-yw4.ydns.eu
-yw5.ydns.eu
 23.227.38.2:443
 23.227.38.6:443
 23.227.38.8:443
