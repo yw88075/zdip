@@ -10,6 +10,11 @@ yw4.duckdns.org
 yw5.duckdns.org
 yw.freemyip.com
 yw88075.ydns.eu
+2606:4700:839b:f3ff:a5:a4ba:1cf5:ea67:443#Europe
+2606:4700:8399:f39d:b002:2d18:783:c9c:1cf5:ea67:443#Europe
+2606:4700:83bd:6841:e3b0:f68:a48f:4949:ea67:443#Europe
+2606:4700:83be:b566:aec:30eb:f326:51b9:443#Europe
+2606:4700:85d1:421d:d0d6:f569:2865:6208:443#Europe
 104.19.152.19:443#United Kingdom
 104.18.40.157:443
 104.18.148.8:443
