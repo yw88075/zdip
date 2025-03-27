@@ -90,11 +90,10 @@ america1.store.uefa.com
 www.baipiao.eu.org
 investors.atlassian.com#Australia
 marketplace.telstra.com#Australia
-2a06:98c1:51:2d1d:8077:e323:cad0:3911:443
+2a06:98c1:51:2d1d:8077:e323:cad0:3911
 23.227.38.6:443
 23.227.38.8:443
 23.227.38.15:443
 23.227.38.4:443
 23.227.39.122:443
 23.227.39.186:443
-
