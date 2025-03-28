@@ -11,6 +11,8 @@ yw5.duckdns.org
 yw.freemyip.com
 yw88075.ydns.eu
 104.19.152.19:443#United Kingdom
+194.28.225.57:443#🇩🇪德国
+95.182.97.211:443#🇫🇷法国
 104.18.40.157:443
 104.18.148.8:443
 104.18.123.108:443
@@ -90,7 +92,7 @@ america1.store.uefa.com
 www.baipiao.eu.org
 investors.atlassian.com#Australia
 marketplace.telstra.com#Australia
-5.10.247.130:433#🇺🇸美国
+5.10.247.130:443#🇺🇸美国
 23.227.38.6:443
 23.227.38.8:443
 23.227.38.15:443
