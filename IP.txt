@@ -1,7 +1,7 @@
 yw1.ydns.eu#洛杉矶
 yw2.ydns.eu#圣何塞
 yw3.ydns.eu#法国
-yw4.ydns.eu#日本
+yw4.ydns.eu#香港
 yw5.ydns.eu#德国 
 yw1.duckdns.org#荷兰
 yw2.duckdns.org#荷兰
